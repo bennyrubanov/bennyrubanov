@@ -13,6 +13,7 @@
 ### Languages
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 
