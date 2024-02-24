@@ -1,10 +1,10 @@
 <h1 align="center">Hi! <img src="https://github.com/bennyrubanov/bennyrubanov/blob/main/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <br><br>
+    <br>
         I'm Benny, and I'm currently working on various fun projects related to chess.<br>
         I'm living in Bali as a digital nomad 🌴<br>
-        I'm learning Typescript, Python, Automation, and ML/AI.<br>
+        I'm learning Typescript, Python, Automation, and ML/AI.<br><br>
         Open to collaborating on any fun ideas! Send me a <a href="https://twitter.com/BennyRubanov">dm on X</a> to connect.<br>
     <br>
     Check out <a href="bennyrubanov.com">my website</a> to learn more about me and what I'm up to!
