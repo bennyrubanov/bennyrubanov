@@ -22,13 +22,24 @@
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)
 
 ### Technologies & Frameworks
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/vue-black?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vue.js)
 ![Nuxt](https://img.shields.io/badge/nuxt.js-000000?style=for-the-badge&logo=nuxtdotjs)
+![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws)
+![GCP](https://img.shields.io/badge/gcp-black?style=for-the-badge&logo=googlecloud)
+![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
+
+### My Primary Tools
+![Cursor](https://img.shields.io/badge/cursor-black?style=for-the-badge&logo=visualstudiocode)
+![Warp Terminal](https://img.shields.io/badge/warp_terminal-black?style=for-the-badge&logo=gnometerminal)
+![Linear](https://img.shields.io/badge/linear-black?style=for-the-badge&logo=linear)
+![Notion](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion)
 
 <!--
 **bennyrubanov/bennyrubanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
