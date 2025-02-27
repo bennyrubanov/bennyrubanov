@@ -3,8 +3,8 @@
 <p align="center">
     <br>
         I'm Benny, and I'm currently working on various fun projects related to chess.<br>
-        I'm living in Bali as a digital nomad 🌴<br>
-        I'm learning Typescript, Python, Automation, and ML/AI.<br><br>
+        I lived in Bali for 2 years while learning to code! 🌴<br>
+        I'm exploring various ML/AI projects.<br><br>
         Open to collaborating on any fun ideas! Send me a <a href="https://twitter.com/BennyRubanov">dm on X</a> to connect.<br>
     <br>
     Check out <a href="https://bennyrubanov.com">my website</a> to learn more about me and what I'm up to!
