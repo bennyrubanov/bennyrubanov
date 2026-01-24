@@ -28,6 +28,11 @@
 [![GCP](https://img.shields.io/badge/gcp-black?style=for-the-badge&logo=googlecloud)](https://cloud.google.com/)
 [![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://numpy.org/)
 
 ### Tools
 [![Cursor](https://img.shields.io/badge/cursor-black?style=for-the-badge&logo=visualstudiocode)](https://cursor.com/)
