@@ -1,13 +1,23 @@
-<h1 align="center">Hi! <img src="https://github.com/bennyrubanov/bennyrubanov/blob/main/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, I'm Benny <img src="https://github.com/bennyrubanov/bennyrubanov/blob/main/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <br>
-        I'm Benny, and I'm currently working on various fun projects and ideas.<br>
-        I've been a traveling software engineer for the last few years, including living in Bali for 2 years! 🌴<br>
-        I'm exploring various ML/AI projects.<br><br>
-        Open to collaborating on any ideas! Send me a <a href="https://twitter.com/BennyRubanov">dm on X</a> or <a href="https://www.linkedin.com/in/bennyrubanov/">LinkedIn</a> to connect.<br>
-    <br>
-    Check out <a href="https://bennyrubanov.com">my website</a> to learn more about me and what I'm up to!
+    AI engineer. I build LLM systems that run in production, for clients and for two products of my own.
+</p>
+
+### What I build with
+- **Models and AI:** Claude, OpenAI and Gemini APIs, RAG, prompt chaining, structured extraction, Whisper, OCR (AWS Textract, Tesseract), Stockfish, ElevenLabs
+- **Agents:** Claude Code, Cursor and Codex, with custom skills and MCP servers
+- **Integrations:** QuickBooks, Stripe, WhatsApp (Twilio and Meta), Notion, Jira and Atlassian Forge, GitHub, Resend, Lichess, SAM.gov
+- **Scraping and media:** Playwright, ScrapeGraphAI, yt-dlp, ffmpeg, Remotion
+- **Mobile:** React Native with Expo
+- **Production:** Vercel, Supabase, AWS (Lambda, S3), Azure, Railway, Firebase, Docker, GitHub Actions, PostHog, Sentry
+
+### Open source
+- [chessanalysis](https://github.com/bennyrubanov/chessanalysis): rigorous answers to silly chess questions from the Lichess games database (TypeScript)
+- [ig-yt-x-knowledge-extract](https://github.com/bennyrubanov/ig-yt-x-knowledge-extract): turns saved Instagram, YouTube and X posts into searchable notes with Whisper, OCR and agent-written summaries; 2,000+ notes filed (Python)
+
+<p align="center">
+    <a href="https://www.bennyrubanov.com/portfolio/">Portfolio</a> · <a href="https://www.linkedin.com/in/bennyrubanov/">LinkedIn</a> · <a href="https://twitter.com/BennyRubanov">X</a>
 </p>
 
 ### Languages
@@ -39,18 +49,3 @@
 [![Warp Terminal](https://img.shields.io/badge/warp_terminal-black?style=for-the-badge&logo=gnometerminal)](https://www.warp.dev/)
 [![Linear](https://img.shields.io/badge/linear-black?style=for-the-badge&logo=linear)](https://linear.app/)
 [![Notion](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion)](https://www.notion.so/)
-
-<!--
-**bennyrubanov/bennyrubanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
