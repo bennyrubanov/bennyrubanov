@@ -10,7 +10,7 @@
 - **Integrations:** QuickBooks, Stripe, WhatsApp (Twilio and Meta), Notion, Jira and Atlassian Forge, GitHub, Resend, Lichess, SAM.gov
 - **Scraping and media:** Playwright, ScrapeGraphAI, yt-dlp, ffmpeg, Remotion
 - **Mobile:** React Native with Expo
-- **Production:** Vercel, Supabase, AWS (Lambda, S3), Railway, Firebase, Docker, GitHub Actions, PostHog, Sentry
+- **Production:** Vercel, Supabase, AWS (Lambda, S3), Azure, Railway, Firebase, Docker, GitHub Actions, PostHog, Sentry
 
 ### Open source
 - [chessanalysis](https://github.com/bennyrubanov/chessanalysis): rigorous answers to silly chess questions from the Lichess games database (TypeScript)
