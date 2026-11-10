@@ -1,16 +1,20 @@
 <h1 align="center">Hi, I'm Benny <img src="https://github.com/bennyrubanov/bennyrubanov/blob/main/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    Full-stack and AI engineer based in Dallas. I build AI software that real businesses run on.<br>
-    TypeScript, React/Next.js, Node.js and Python, with LLMs, retrieval and third-party APIs (QuickBooks, Notion, Atlassian).
+    AI engineer shipping LLM systems in production. Full-stack TypeScript and Python, based in Dallas.
 </p>
 
 ### Recently
-- Sole engineer of an AI accounts-payable and budget-reporting platform behind a $150M+ real-estate budget (TypeScript, Claude)
-- Python/LLM pipeline that kept 30,000+ ecommerce product descriptions current as models and source sites changed
-- RAG platform for federal contract discovery and proposal writing; moved its Vue frontend to TypeScript
-- React/TypeScript migration and data visualization for an Atlassian Marketplace app used by 200+ companies
-- Building my own AI products: Híjole and Benya
+- Only engineer on an invoice-automation platform for a real-estate developer with a $150M+ budget: Claude reads the invoices, Notion handles approvals, QuickBooks gets the entries
+- Built a Python pipeline that updated 30,000+ ecommerce product descriptions using OpenAI models and scraped source data
+- Worked on a RAG proposal-writing platform for federal contractors and moved its Vue frontend to TypeScript
+- Helped migrate an Atlassian Marketplace app used by 200+ companies to React, TypeScript and Forge, and built its data visualizations
+- My own products: Híjole (invoice photos and WhatsApp messages into accounting spreadsheets, in Spanish) and Benya (weekly AI stock rankings)
+
+### AI and integrations
+- **Models and AI tooling:** Claude, OpenAI and Gemini APIs, RAG, Whisper, OCR (AWS Textract, Tesseract), Stockfish, ElevenLabs
+- **Integrations:** QuickBooks, Stripe, WhatsApp (Twilio and Meta), Notion, Jira and Atlassian Forge, Resend
+- **Running in production on:** Vercel, Supabase, AWS and Railway, with PostHog and Sentry
 
 ### Open source
 - [chessanalysis](https://github.com/bennyrubanov/chessanalysis): rigorous answers to silly chess questions from the Lichess games database (TypeScript)
