@@ -1,20 +1,16 @@
 <h1 align="center">Hi, I'm Benny <img src="https://github.com/bennyrubanov/bennyrubanov/blob/main/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    AI engineer shipping LLM systems in production. Full-stack TypeScript and Python, based in Dallas.
+    AI engineer. I build LLM systems that run in production, for clients and for two products of my own.
 </p>
 
-### Recently
-- Only engineer on an invoice-automation platform for a real-estate developer with a $150M+ budget: Claude reads the invoices, Notion handles approvals, QuickBooks gets the entries
-- Built a Python pipeline that updated 30,000+ ecommerce product descriptions using OpenAI models and scraped source data
-- Worked on a RAG proposal-writing platform for federal contractors and moved its Vue frontend to TypeScript
-- Helped migrate an Atlassian Marketplace app used by 200+ companies to React, TypeScript and Forge, and built its data visualizations
-- My own products: Híjole (invoice photos and WhatsApp messages into accounting spreadsheets, in Spanish) and Benya (weekly AI stock rankings)
-
-### AI and integrations
-- **Models and AI tooling:** Claude, OpenAI and Gemini APIs, RAG, Whisper, OCR (AWS Textract, Tesseract), Stockfish, ElevenLabs
-- **Integrations:** QuickBooks, Stripe, WhatsApp (Twilio and Meta), Notion, Jira and Atlassian Forge, Resend
-- **Running in production on:** Vercel, Supabase, AWS and Railway, with PostHog and Sentry
+### What I build with
+- **Models and AI:** Claude, OpenAI and Gemini APIs, RAG, prompt chaining, structured extraction, Whisper, OCR (AWS Textract, Tesseract), Stockfish, ElevenLabs
+- **Agents:** Claude Code, Cursor and Codex, with custom skills and MCP servers
+- **Integrations:** QuickBooks, Stripe, WhatsApp (Twilio and Meta), Notion, Jira and Atlassian Forge, GitHub, Resend, Lichess, SAM.gov
+- **Scraping and media:** Playwright, ScrapeGraphAI, yt-dlp, ffmpeg, Remotion
+- **Mobile:** React Native with Expo
+- **Production:** Vercel, Supabase, AWS (Lambda, S3), Railway, Firebase, Docker, GitHub Actions, PostHog, Sentry
 
 ### Open source
 - [chessanalysis](https://github.com/bennyrubanov/chessanalysis): rigorous answers to silly chess questions from the Lichess games database (TypeScript)
