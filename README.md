@@ -1,13 +1,23 @@
-<h1 align="center">Hi! <img src="https://github.com/bennyrubanov/bennyrubanov/blob/main/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, I'm Benny <img src="https://github.com/bennyrubanov/bennyrubanov/blob/main/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <br>
-        I'm Benny, and I'm currently working on various fun projects and ideas.<br>
-        I've been a traveling software engineer for the last few years, including living in Bali for 2 years! 🌴<br>
-        I'm exploring various ML/AI projects.<br><br>
-        Open to collaborating on any ideas! Send me a <a href="https://twitter.com/BennyRubanov">dm on X</a> or <a href="https://www.linkedin.com/in/bennyrubanov/">LinkedIn</a> to connect.<br>
-    <br>
-    Check out <a href="https://bennyrubanov.com">my website</a> to learn more about me and what I'm up to!
+    Full-stack and AI engineer based in Dallas. I build AI software that real businesses run on.<br>
+    TypeScript, React/Next.js, Node.js and Python, with LLMs, retrieval and third-party APIs (QuickBooks, Notion, Atlassian).
+</p>
+
+### Recently
+- Sole engineer of an AI accounts-payable and budget-reporting platform behind a $150M+ real-estate budget (TypeScript, Claude)
+- Python/LLM pipeline that kept 30,000+ ecommerce product descriptions current as models and source sites changed
+- RAG platform for federal contract discovery and proposal writing; moved its Vue frontend to TypeScript
+- React/TypeScript migration and data visualization for an Atlassian Marketplace app used by 200+ companies
+- Building my own AI products: Híjole and Benya
+
+### Open source
+- [chessanalysis](https://github.com/bennyrubanov/chessanalysis): rigorous answers to silly chess questions from the Lichess games database (TypeScript)
+- [ig-yt-x-knowledge-extract](https://github.com/bennyrubanov/ig-yt-x-knowledge-extract): turns saved Instagram, YouTube and X posts into searchable notes with Whisper, OCR and agent-written summaries; 2,000+ notes filed (Python)
+
+<p align="center">
+    <a href="https://www.bennyrubanov.com/portfolio/">Portfolio</a> · <a href="https://www.linkedin.com/in/bennyrubanov/">LinkedIn</a> · <a href="https://twitter.com/BennyRubanov">X</a>
 </p>
 
 ### Languages
@@ -39,18 +49,3 @@
 [![Warp Terminal](https://img.shields.io/badge/warp_terminal-black?style=for-the-badge&logo=gnometerminal)](https://www.warp.dev/)
 [![Linear](https://img.shields.io/badge/linear-black?style=for-the-badge&logo=linear)](https://linear.app/)
 [![Notion](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion)](https://www.notion.so/)
-
-<!--
-**bennyrubanov/bennyrubanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
